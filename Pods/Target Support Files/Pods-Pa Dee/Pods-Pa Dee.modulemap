@@ -1,0 +1,6 @@
+framework module Pods_Pa_Dee {
+  umbrella header "Pods-Pa Dee-umbrella.h"
+
+  export *
+  module * { export * }
+}
